@@ -1,0 +1,2 @@
+# IoT--BASED-UNDERGROUND-MINE-VIBRATION-AND-DISPLACEMENT-MONITORING-WITH-EARLY-WARNING-SYSTEM
+This project is an IoT-based underground mine safety monitoring system designed to detect vibrations and displacement changes that may indicate unsafe underground conditions.The system uses an ESP32 microcontroller, an SW-420 vibration sensor, and a GY-53 VL53L0X distance sensor to continuously monitor vibration.
